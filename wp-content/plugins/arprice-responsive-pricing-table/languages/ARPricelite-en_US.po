@@ -1,0 +1,3097 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ARPrice - Responsive Pricing Table v1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-12-28 08:02:04+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: core/views/arprice_global_settings.php:293
+#: core/views/arprice_global_settings.php:298
+#@ ARPricelite
+msgid "(Max-Width)"
+msgstr "(Max-Width)"
+
+#: core/views/arprice_global_settings.php:303
+#@ ARPricelite
+msgid "(Optional)"
+msgstr "(Optional)"
+
+#: core/views/arprice_listing_editor.php:933
+#: core/views/arprice_listing_editor_21dec2016.php:927
+#@ ARPricelite
+msgid "ARPrice Guided Tour"
+msgstr "ARPrice Guided Tour"
+
+#: core/widgets/arprice_widget.php:6
+#@ ARPricelite
+msgid "ARPrice Lite"
+msgstr "ARPrice Lite"
+
+#: core/classes/class.arprice_form.php:4010
+#: core/classes/class.arprice_form_21dec2016.php:3634
+#: core/classes/class.arprice_form_22dec2016.php:3744
+#: core/classes/class.arprice_preview_editor.php:3266
+#: core/classes/class.arprice_preview_editor.php:3612
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3257
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3604
+#: core/classes/class.arprice_preview_editor_option.php:701
+#: core/classes/class.arprice_preview_editor_option.php:780
+#: core/classes/class.arprice_preview_editor_option.php:1006
+#: core/classes/class.arprice_preview_editor_option.php:1223
+#: core/classes/class.arprice_preview_editor_option.php:1372
+#: core/classes/class.arprice_preview_editor_option.php:1551
+#: core/classes/class.arprice_preview_editor_option.php:1816
+#: core/classes/class.arprice_preview_editor_option.php:2036
+#: core/classes/class.arprice_preview_editor_option.php:2553
+#: core/classes/class.arprice_preview_editor_option.php:2788
+#: core/classes/class.arprice_preview_editor_option.php:3189
+#: core/classes/class.arprice_preview_editor_option.php:3466
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:701
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:780
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1006
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1223
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1372
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1551
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1816
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2036
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2553
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2788
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3189
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3466
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:701
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:780
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1006
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1223
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1372
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1551
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1816
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2036
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2553
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2788
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3189
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3466
+#@ ARPricelite
+msgid "Add"
+msgstr "Add"
+
+#: core/classes/class.arprice_preview_editor_option.php:3153
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3153
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3153
+#@ ARPricelite
+msgid "Add Button Image"
+msgstr "Add Button Image"
+
+#: core/views/arprice_listing_editor.php:578
+#: core/views/arprice_listing_editor.php:588
+#: core/views/arprice_listing_editor_21dec2016.php:572
+#: core/views/arprice_listing_editor_21dec2016.php:582
+#@ ARPricelite
+msgid "Add Column"
+msgstr "Add Column"
+
+#: core/classes/class.arprice_form.php:3991
+#: core/classes/class.arprice_form_21dec2016.php:3615
+#: core/classes/class.arprice_form_22dec2016.php:3725
+#: core/classes/class.arprice_preview_editor.php:3247
+#: core/classes/class.arprice_preview_editor.php:3593
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3238
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3585
+#: core/classes/class.arprice_preview_editor_option.php:682
+#: core/classes/class.arprice_preview_editor_option.php:772
+#: core/classes/class.arprice_preview_editor_option.php:987
+#: core/classes/class.arprice_preview_editor_option.php:1204
+#: core/classes/class.arprice_preview_editor_option.php:1353
+#: core/classes/class.arprice_preview_editor_option.php:1532
+#: core/classes/class.arprice_preview_editor_option.php:1797
+#: core/classes/class.arprice_preview_editor_option.php:2017
+#: core/classes/class.arprice_preview_editor_option.php:2534
+#: core/classes/class.arprice_preview_editor_option.php:2769
+#: core/classes/class.arprice_preview_editor_option.php:3181
+#: core/classes/class.arprice_preview_editor_option.php:3447
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:682
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:772
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:987
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1204
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1353
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1532
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1797
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2017
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2534
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2769
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3181
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3447
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:682
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:772
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:987
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1204
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1353
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1532
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1797
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2017
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2534
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2769
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3181
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3447
+#: core/views/arprice_import_export.php:301
+#@ ARPricelite
+msgid "Add File"
+msgstr "Add File"
+
+#: core/classes/class.arprice_form.php:3974
+#: core/classes/class.arprice_form.php:4117
+#: core/classes/class.arprice_form_21dec2016.php:3598
+#: core/classes/class.arprice_form_21dec2016.php:3741
+#: core/classes/class.arprice_form_22dec2016.php:3708
+#: core/classes/class.arprice_form_22dec2016.php:3851
+#: core/classes/class.arprice_preview_editor.php:3281
+#: core/classes/class.arprice_preview_editor.php:3624
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3272
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3616
+#: core/classes/class.arprice_preview_editor_option.php:661
+#: core/classes/class.arprice_preview_editor_option.php:966
+#: core/classes/class.arprice_preview_editor_option.php:1184
+#: core/classes/class.arprice_preview_editor_option.php:1332
+#: core/classes/class.arprice_preview_editor_option.php:1511
+#: core/classes/class.arprice_preview_editor_option.php:1775
+#: core/classes/class.arprice_preview_editor_option.php:1996
+#: core/classes/class.arprice_preview_editor_option.php:2513
+#: core/classes/class.arprice_preview_editor_option.php:2748
+#: core/classes/class.arprice_preview_editor_option.php:2963
+#: core/classes/class.arprice_preview_editor_option.php:3359
+#: core/classes/class.arprice_preview_editor_option.php:3427
+#: core/classes/class.arprice_preview_editor_option.php:3551
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:661
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:966
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1184
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1332
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1511
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1775
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1996
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2513
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2748
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2963
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3359
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3427
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3551
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:661
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:966
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1184
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1332
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1511
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1775
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1996
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2513
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2748
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2963
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3359
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3427
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3551
+#@ ARPricelite
+msgid "Add Font Icon"
+msgstr "Add Font Icon"
+
+#: core/classes/class.arprice_preview_editor_option.php:756
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:756
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:756
+#@ ARPricelite
+msgid "Add Header Background Image"
+msgstr "Add Header Background Image"
+
+#: core/classes/class.arprice_form.php:3968
+#: core/classes/class.arprice_form_21dec2016.php:3592
+#: core/classes/class.arprice_form_22dec2016.php:3702
+#: core/classes/class.arprice_preview_editor.php:3229
+#: core/classes/class.arprice_preview_editor.php:3575
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3220
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3567
+#: core/classes/class.arprice_preview_editor_option.php:652
+#: core/classes/class.arprice_preview_editor_option.php:958
+#: core/classes/class.arprice_preview_editor_option.php:1176
+#: core/classes/class.arprice_preview_editor_option.php:1325
+#: core/classes/class.arprice_preview_editor_option.php:1386
+#: core/classes/class.arprice_preview_editor_option.php:1502
+#: core/classes/class.arprice_preview_editor_option.php:1763
+#: core/classes/class.arprice_preview_editor_option.php:1988
+#: core/classes/class.arprice_preview_editor_option.php:2505
+#: core/classes/class.arprice_preview_editor_option.php:2740
+#: core/classes/class.arprice_preview_editor_option.php:3421
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:652
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:958
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1176
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1325
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1386
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1502
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1763
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1988
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2505
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2740
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3421
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:652
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:958
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1176
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1325
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1386
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1502
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1763
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1988
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2505
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2740
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3421
+#@ ARPricelite
+msgid "Add Media"
+msgstr "Add Media"
+
+#: core/classes/class.arprice_preview_editor.php:2783
+#: core/classes/class.arprice_preview_editor.php:2799
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2775
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2791
+#: core/classes/class.arprice_preview_editor_option.php:30
+#: core/classes/class.arprice_preview_editor_option.php:50
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:30
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:50
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:30
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:50
+#@ ARPricelite
+msgid "Add New Row"
+msgstr "Add New Row"
+
+#: core/views/arprice_listing_editor.php:806
+#: core/views/arprice_listing_editor.php:834
+#: core/views/arprice_listing_editor_21dec2016.php:800
+#: core/views/arprice_listing_editor_21dec2016.php:828
+#@ ARPricelite
+msgid "Add Ribbon"
+msgstr "Add Ribbon"
+
+#: arprice-responsive-pricing-table.php:1046
+#@ ARPricelite
+msgid "Add/Edit Arpricelite Pricing Tables"
+msgstr "Add/Edit Arpricelite Pricing Tables"
+
+#: core/classes/class.arprice_preview_editor_option.php:1314
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1314
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1314
+#@ ARPricelite
+msgid "Additional Shortcode"
+msgstr "Additional Shortcode"
+
+#: arprice-responsive-pricing-table.php:488
+#@ ARPricelite
+msgid "Address"
+msgstr "Address"
+
+#: core/classes/class.arprice_preview_editor.php:555
+#: core/classes/class.arprice_preview_editor.php:583
+#: core/classes/class.arprice_preview_editor_21dec2016.php:547
+#: core/classes/class.arprice_preview_editor_21dec2016.php:575
+#@ ARPricelite
+msgid "All"
+msgstr "All"
+
+#: core/classes/class.arprice_preview_editor.php:1524
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1516
+#@ ARPricelite
+msgid "Apply To Editor"
+msgstr "Apply To Editor"
+
+#: core/views/arprice_listing_editor.php:653
+#: core/views/arprice_listing_editor_21dec2016.php:647
+#@ ARPricelite
+msgid "Are you sure want to delete this column ?"
+msgstr "Are you sure want to delete this column ?"
+
+#: core/classes/class.arprice_preview_editor.php:2772
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2764
+#: core/classes/class.arprice_preview_editor_option.php:21
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:21
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:21
+#: core/views/arprice_listing_editor.php:347
+#: core/views/arprice_listing_editor_21dec2016.php:341
+#@ ARPricelite
+msgid "Are you sure want to delete this column?"
+msgstr "Are you sure want to delete this column?"
+
+#: core/views/arprice_listing_editor.php:654
+#: core/views/arprice_listing_editor_21dec2016.php:648
+#@ ARPricelite
+msgid "Are you sure want to delete this row ?"
+msgstr "Are you sure want to delete this row ?"
+
+#: core/classes/class.arprice_preview_editor.php:2806
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2798
+#: core/classes/class.arprice_preview_editor_option.php:57
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:57
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:57
+#@ ARPricelite
+msgid "Are you sure want to delete this row?"
+msgstr "Are you sure want to delete this row?"
+
+#: core/views/arprice_listing_editor.php:655
+#: core/views/arprice_listing_editor_21dec2016.php:649
+#@ ARPricelite
+msgid "Are you sure you want to delete this table ?"
+msgstr "Are you sure you want to delete this table ?"
+
+#: core/views/arprice_template_listing.php:316
+#@ ARPricelite
+msgid "Are you sure you want to delete this table?"
+msgstr "Are you sure you want to delete this table?"
+
+#: core/views/arprice_listing_editor.php:659
+#: core/views/arprice_listing_editor_21dec2016.php:653
+#@ ARPricelite
+msgid "Audio"
+msgstr "Audio"
+
+#: arprice-responsive-pricing-table.php:461
+#: arprice-responsive-pricing-table.php:466
+#: arprice-responsive-pricing-table.php:477
+#: arprice-responsive-pricing-table.php:481
+#: arprice-responsive-pricing-table.php:499
+#: arprice-responsive-pricing-table.php:504
+#: arprice-responsive-pricing-table.php:509
+#: arprice-responsive-pricing-table.php:514
+#: arprice-responsive-pricing-table.php:519
+#@ ARPricelite
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: core/views/arprice_template_listing.php:234
+#@ ARPricelite
+msgid "Available In Premium Version"
+msgstr "Available In Premium Version"
+
+#: core/classes/class.arprice_preview_editor.php:2937
+#: core/classes/class.arprice_preview_editor.php:2966
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2929
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2958
+#: core/classes/class.arprice_preview_editor_option.php:364
+#: core/classes/class.arprice_preview_editor_option.php:449
+#: core/classes/class.arprice_preview_editor_option.php:480
+#: core/classes/class.arprice_preview_editor_option.php:579
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:364
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:449
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:480
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:579
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:364
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:449
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:480
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:579
+#: core/views/arprice_listing_editor.php:788
+#: core/views/arprice_listing_editor.php:1085
+#: core/views/arprice_listing_editor.php:1191
+#: core/views/arprice_listing_editor.php:1318
+#: core/views/arprice_listing_editor_21dec2016.php:782
+#@ ARPricelite
+msgid "Background"
+msgstr "Background"
+
+#: core/classes/class.arprice_preview_editor.php:3301
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3292
+#@ ARPricelite
+msgid "Background Color"
+msgstr "Background Color"
+
+#: core/classes/class.arprice_preview_editor_option.php:276
+#: core/classes/class.arprice_preview_editor_option.php:754
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:276
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:754
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:276
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:754
+#@ ARPricelite
+msgid "Background Image"
+msgstr "Background Image"
+
+#: arprice-responsive-pricing-table.php:446
+#@ ARPricelite
+msgid "Beatport Audio"
+msgstr "Beatport Audio"
+
+#: core/classes/class.arprice_form.php:4183
+#: core/classes/class.arprice_form_21dec2016.php:3807
+#: core/classes/class.arprice_form_22dec2016.php:3917
+#: core/classes/class.arprice_preview_editor.php:1681
+#: core/classes/class.arprice_preview_editor.php:1810
+#: core/classes/class.arprice_preview_editor.php:1940
+#: core/classes/class.arprice_preview_editor.php:2070
+#: core/classes/class.arprice_preview_editor.php:2200
+#: core/classes/class.arprice_preview_editor.php:2327
+#: core/classes/class.arprice_preview_editor.php:3168
+#: core/classes/class.arprice_preview_editor.php:3358
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1673
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1802
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1932
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2062
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2192
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2319
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3159
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3349
+#: core/classes/class.arprice_preview_editor_option.php:223
+#: core/classes/class.arprice_preview_editor_option.php:887
+#: core/classes/class.arprice_preview_editor_option.php:1112
+#: core/classes/class.arprice_preview_editor_option.php:1688
+#: core/classes/class.arprice_preview_editor_option.php:1919
+#: core/classes/class.arprice_preview_editor_option.php:2144
+#: core/classes/class.arprice_preview_editor_option.php:2445
+#: core/classes/class.arprice_preview_editor_option.php:2665
+#: core/classes/class.arprice_preview_editor_option.php:2891
+#: core/classes/class.arprice_preview_editor_option.php:3092
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:223
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:887
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1112
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1688
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1919
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2144
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2445
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2665
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2891
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3092
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:223
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:887
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1112
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1688
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1919
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2144
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2445
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2665
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2891
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3092
+#@ ARPricelite
+msgid "Bold"
+msgstr "Bold"
+
+#: arprice-responsive-pricing-table.php:534
+#: core/classes/class.arprice_preview_editor_option.php:434
+#: core/classes/class.arprice_preview_editor_option.php:565
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:434
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:565
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:434
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:565
+#: core/views/arprice_listing_editor.php:1173
+#: core/views/arprice_listing_editor.php:1302
+#@ ARPricelite
+msgid "Button"
+msgstr "Button"
+
+#: core/classes/class.arprice_preview_editor_option.php:2947
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2947
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2947
+#@ ARPricelite
+msgid "Button Content"
+msgstr "Button Content"
+
+#: core/classes/class.arprice_preview_editor_option.php:70
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:70
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:70
+#@ ARPricelite
+msgid "Button General Settings"
+msgstr "Button General Settings"
+
+#: core/classes/class.arprice_preview_editor_option.php:71
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:71
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:71
+#@ ARPricelite
+msgid "Button Image Settings"
+msgstr "Button Image Settings"
+
+#: core/classes/class.arprice_preview_editor_option.php:3148
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3148
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3148
+#@ ARPricelite
+msgid "Button Image url"
+msgstr "Button Image url"
+
+#: core/classes/class.arprice_preview_editor_option.php:3227
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3227
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3227
+#@ ARPricelite
+msgid "Button Link"
+msgstr "Button Link"
+
+#: core/classes/class.arprice_preview_editor_option.php:72
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:72
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:72
+#@ ARPricelite
+msgid "Button Link Settings"
+msgstr "Button Link Settings"
+
+#: core/classes/class.arprice_preview_editor_option.php:72
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:72
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:72
+#@ ARPricelite
+msgid "Button Link/Script Settings"
+msgstr "Button Link/Script Settings"
+
+#: core/views/arprice_global_settings.php:434
+#: core/views/arprice_import_export.php:334
+#: core/views/arprice_listing_editor.php:1012
+#: core/views/arprice_listing_editor.php:1024
+#: core/views/arprice_listing_editor.php:1036
+#: core/views/arprice_listing_editor.php:1048
+#: core/views/arprice_listing_editor.php:1060
+#: core/views/arprice_listing_editor_21dec2016.php:1006
+#: core/views/arprice_listing_editor_21dec2016.php:1018
+#: core/views/arprice_listing_editor_21dec2016.php:1030
+#: core/views/arprice_listing_editor_21dec2016.php:1042
+#: core/views/arprice_listing_editor_21dec2016.php:1054
+#: core/views/arprice_template_listing.php:281
+#: core/views/arprice_template_listing.php:370
+#: core/views/arprice_template_listing.php:383
+#@ ARPricelite
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: core/classes/class.arprice_preview_editor.php:1533
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1525
+#@ ARPricelite
+msgid "CSS class info"
+msgstr "CSS class info"
+
+#: core/classes/class.arprice_preview_editor.php:211
+#: core/classes/class.arprice_preview_editor.php:2776
+#: core/classes/class.arprice_preview_editor.php:2810
+#: core/classes/class.arprice_preview_editor_21dec2016.php:211
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2768
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2802
+#: core/classes/class.arprice_preview_editor_option.php:25
+#: core/classes/class.arprice_preview_editor_option.php:61
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:25
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:61
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:25
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:61
+#: core/views/arprice_listing_editor.php:346
+#: core/views/arprice_listing_editor.php:839
+#: core/views/arprice_listing_editor_21dec2016.php:340
+#: core/views/arprice_listing_editor_21dec2016.php:833
+#: core/views/arprice_template_listing.php:319
+#@ ARPricelite
+msgid "Cancel"
+msgstr "Cancel"
+
+#: core/views/arprice_global_settings.php:220
+#@ ARPricelite
+msgid "Changes Saved Successfully."
+msgstr "Changes Saved Successfully."
+
+#: core/views/arprice_listing_editor.php:850
+#: core/views/arprice_listing_editor_21dec2016.php:844
+#@ ARPricelite
+msgid "Choose Color"
+msgstr "Choose Color"
+
+#: core/views/arprice_listing_editor.php:639
+#: core/views/arprice_listing_editor_21dec2016.php:633
+#@ ARPricelite
+msgid "Choose File"
+msgstr "Choose File"
+
+#: core/views/arprice_global_settings.php:333
+#@ ARPricelite
+msgid "Choose the character sets you want to add with google fonts"
+msgstr "Choose the character sets you want to add with google fonts"
+
+#: core/views/arprice_template_listing.php:143
+#@ ARPricelite
+msgid "Clone Table"
+msgstr "Clone Table"
+
+#: core/classes/class.arprice_preview_editor.php:413
+#: core/classes/class.arprice_preview_editor_21dec2016.php:405
+#@ ARPricelite
+msgid "Color"
+msgstr "Color"
+
+#: core/classes/class.arprice_preview_editor_option.php:938
+#: core/classes/class.arprice_preview_editor_option.php:1156
+#: core/classes/class.arprice_preview_editor_option.php:1968
+#: core/classes/class.arprice_preview_editor_option.php:2495
+#: core/classes/class.arprice_preview_editor_option.php:2720
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:938
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1156
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1968
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2495
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2720
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:938
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1156
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1968
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2495
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2720
+#@ ARPricelite
+msgid "Column Description"
+msgstr "Column Description"
+
+#: core/classes/class.arprice_preview_editor_option.php:33
+#: core/classes/class.arprice_preview_editor_option.php:38
+#: core/classes/class.arprice_preview_editor_option.php:40
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:33
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:38
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:40
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:33
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:38
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:40
+#@ ARPricelite
+msgid "Column Description Settings"
+msgstr "Column Description Settings"
+
+#: core/classes/class.arprice_preview_editor.php:352
+#: core/classes/class.arprice_preview_editor.php:487
+#: core/classes/class.arprice_preview_editor_21dec2016.php:344
+#: core/classes/class.arprice_preview_editor_21dec2016.php:479
+#@ ARPricelite
+msgid "Column Options"
+msgstr "Column Options"
+
+#: core/classes/class.arprice_preview_editor.php:660
+#: core/classes/class.arprice_preview_editor_21dec2016.php:652
+#@ ARPricelite
+msgid "Column Radius (px)"
+msgstr "Column Radius (px)"
+
+#: core/classes/class.arprice_preview_editor.php:2761
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2753
+#: core/classes/class.arprice_preview_editor_option.php:9
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:9
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:9
+#@ ARPricelite
+msgid "Column Settings"
+msgstr "Column Settings"
+
+#: core/classes/class.arprice_preview_editor.php:954
+#: core/classes/class.arprice_preview_editor_21dec2016.php:946
+#@ ARPricelite
+msgid "Column Shadow"
+msgstr "Column Shadow"
+
+#: core/classes/class.arprice_preview_editor.php:3220
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3211
+#: core/classes/class.arprice_preview_editor_option.php:634
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:634
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:634
+#@ ARPricelite
+msgid "Column Title"
+msgstr "Column Title"
+
+#: core/classes/class.arprice_preview_editor.php:497
+#: core/classes/class.arprice_preview_editor_21dec2016.php:489
+#@ ARPricelite
+msgid "Column Width"
+msgstr "Column Width"
+
+#: core/classes/class.arprice_preview_editor.php:999
+#: core/classes/class.arprice_preview_editor_21dec2016.php:991
+#@ ARPricelite
+msgid "Column shadow will not apply with column border radius."
+msgstr "Column shadow will not apply with column border radius."
+
+#: core/classes/class.arprice_preview_editor_option.php:104
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:104
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:104
+#@ ARPricelite
+msgid "Content Position"
+msgstr "Content Position"
+
+#: core/classes/class.arprice_preview_editor.php:2792
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2784
+#@ ARPricelite
+msgid "Content Settings"
+msgstr "Content Settings"
+
+#: core/classes/class.arprice_preview_editor.php:380
+#: core/classes/class.arprice_preview_editor.php:1512
+#: core/classes/class.arprice_preview_editor_21dec2016.php:372
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1504
+#: core/views/arprice_global_settings.php:270
+#@ ARPricelite
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: core/views/arprice_listing_editor.php:813
+#: core/views/arprice_listing_editor_21dec2016.php:807
+#@ ARPricelite
+msgid "Custom Position:"
+msgstr "Custom Position:"
+
+#: core/views/arprice_listing_editor.php:719
+#: core/views/arprice_listing_editor.php:802
+#: core/views/arprice_listing_editor_21dec2016.php:713
+#: core/views/arprice_listing_editor_21dec2016.php:796
+#@ ARPricelite
+msgid "Custom Ribbon"
+msgstr "Custom Ribbon"
+
+#: arprice-responsive-pricing-table.php:439
+#@ ARPricelite
+msgid "Dailymotion Video"
+msgstr "Dailymotion Video"
+
+#: core/classes/class.arprice_form.php:3861
+#: core/classes/class.arprice_form_21dec2016.php:3485
+#: core/classes/class.arprice_form_22dec2016.php:3595
+#: core/classes/class.arprice_preview_editor.php:1599
+#: core/classes/class.arprice_preview_editor.php:1728
+#: core/classes/class.arprice_preview_editor.php:1858
+#: core/classes/class.arprice_preview_editor.php:1988
+#: core/classes/class.arprice_preview_editor.php:2118
+#: core/classes/class.arprice_preview_editor.php:2248
+#: core/classes/class.arprice_preview_editor.php:4567
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1591
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1720
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1850
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1980
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2110
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2240
+#: core/classes/class.arprice_preview_editor_21dec2016.php:4559
+#@ ARPricelite
+msgid "Default Fonts"
+msgstr "Default Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:2765
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2757
+#: core/classes/class.arprice_preview_editor_option.php:15
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:15
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:15
+#: core/views/arprice_listing_editor.php:915
+#: core/views/arprice_listing_editor_21dec2016.php:909
+#@ ARPricelite
+msgid "Delete Column"
+msgstr "Delete Column"
+
+#: core/classes/class.arprice_preview_editor.php:2801
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2793
+#: core/classes/class.arprice_preview_editor_option.php:52
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:52
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:52
+#@ ARPricelite
+msgid "Delete Row"
+msgstr "Delete Row"
+
+#: core/views/arprice_template_listing.php:144
+#: core/views/arprice_template_listing.php:312
+#@ ARPricelite
+msgid "Delete Table"
+msgstr "Delete Table"
+
+#: core/classes/class.arprice_form.php:3933
+#: core/classes/class.arprice_form_21dec2016.php:3557
+#: core/classes/class.arprice_form_22dec2016.php:3667
+#: core/classes/class.arprice_preview_editor.php:3535
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3527
+#: core/classes/class.arprice_preview_editor_option.php:401
+#: core/classes/class.arprice_preview_editor_option.php:526
+#: core/classes/class.arprice_preview_editor_option.php:3374
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:401
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:526
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3374
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:401
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:526
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3374
+#: core/views/arprice_listing_editor.php:1134
+#: core/views/arprice_listing_editor.php:1263
+#@ ARPricelite
+msgid "Description"
+msgstr "Description"
+
+#: core/classes/class.arprice_preview_editor.php:2795
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2787
+#: core/classes/class.arprice_preview_editor_option.php:44
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:44
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:44
+#@ ARPricelite
+msgid "Description Settings"
+msgstr "Description Settings"
+
+#: core/views/arprice_global_settings.php:301
+#@ ARPricelite
+msgid "Desktop View"
+msgstr "Desktop View"
+
+#: core/classes/class.arprice_form.php:3998
+#: core/classes/class.arprice_form_21dec2016.php:3622
+#: core/classes/class.arprice_form_22dec2016.php:3732
+#: core/classes/class.arprice_preview_editor.php:3254
+#: core/classes/class.arprice_preview_editor.php:3600
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3245
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3592
+#: core/classes/class.arprice_preview_editor_option.php:689
+#: core/classes/class.arprice_preview_editor_option.php:994
+#: core/classes/class.arprice_preview_editor_option.php:1211
+#: core/classes/class.arprice_preview_editor_option.php:1360
+#: core/classes/class.arprice_preview_editor_option.php:1539
+#: core/classes/class.arprice_preview_editor_option.php:1804
+#: core/classes/class.arprice_preview_editor_option.php:2024
+#: core/classes/class.arprice_preview_editor_option.php:2541
+#: core/classes/class.arprice_preview_editor_option.php:2776
+#: core/classes/class.arprice_preview_editor_option.php:3454
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:689
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:994
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1211
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1360
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1539
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1804
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2024
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2541
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2776
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3454
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:689
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:994
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1211
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1360
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1539
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1804
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2024
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2541
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2776
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3454
+#@ ARPricelite
+msgid "Dimension ( height X width )"
+msgstr "Dimension ( height X width )"
+
+#: core/classes/class.arprice_preview_editor.php:531
+#: core/classes/class.arprice_preview_editor_21dec2016.php:523
+#@ ARPricelite
+msgid "Display Columns"
+msgstr "Display Columns"
+
+#: core/widgets/arprice_widget.php:5
+#@ ARPricelite
+msgid "Display Pricing Table"
+msgstr "Display Pricing Table"
+
+#: core/classes/class.arprice_preview_editor_option.php:13
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:13
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:13
+#@ ARPricelite
+msgid "Duplicate Column"
+msgstr "Duplicate Column"
+
+#: core/classes/class.arprice_preview_editor.php:2800
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2792
+#: core/classes/class.arprice_preview_editor_option.php:51
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:51
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:51
+#@ ARPricelite
+msgid "Duplicate Row"
+msgstr "Duplicate Row"
+
+#: core/classes/class.arprice_preview_editor.php:896
+#: core/classes/class.arprice_preview_editor_21dec2016.php:888
+#@ ARPricelite
+msgid "Effect will shown in preview and front end only."
+msgstr "Effect will shown in preview and front end only."
+
+#: core/classes/class.arprice_preview_editor.php:359
+#: core/classes/class.arprice_preview_editor.php:1473
+#: core/classes/class.arprice_preview_editor_21dec2016.php:351
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1465
+#@ ARPricelite
+msgid "Effects"
+msgstr "Effects"
+
+#: arprice-responsive-pricing-table.php:522
+#@ ARPricelite
+msgid "Embed"
+msgstr "Embed"
+
+#: arprice-responsive-pricing-table.php:450
+#@ ARPricelite
+msgid "Embed Block"
+msgstr "Embed Block"
+
+#: core/classes/class.arprice_preview_editor_option.php:3242
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3242
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3242
+#@ ARPricelite
+msgid "Embed Script (e.g. PayPal Code)"
+msgstr "Embed Script (e.g. PayPal Code)"
+
+#: core/classes/class.arprice_preview_editor.php:1518
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1510
+#@ ARPricelite
+msgid "Enter css class and style"
+msgstr "Enter css class and style"
+
+#: core/classes/class.arprice_preview_editor.php:3453
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3443
+#@ ARPricelite
+msgid "Even Background"
+msgstr "Even Background"
+
+#: core/views/arprice_import_export.php:274
+#@ ARPricelite
+msgid "Export"
+msgstr "Export"
+
+#: core/views/arprice_import_export.php:241
+#@ ARPricelite
+msgid "Export Pricing Tables"
+msgstr "Export Pricing Tables"
+
+#: core/classes/class.arprice_preview_editor.php:1585
+#: core/classes/class.arprice_preview_editor.php:1714
+#: core/classes/class.arprice_preview_editor.php:1844
+#: core/classes/class.arprice_preview_editor.php:1974
+#: core/classes/class.arprice_preview_editor.php:2104
+#: core/classes/class.arprice_preview_editor.php:2234
+#: core/classes/class.arprice_preview_editor.php:3086
+#: core/classes/class.arprice_preview_editor.php:3308
+#: core/classes/class.arprice_preview_editor.php:3468
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1577
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1706
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1836
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1966
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2096
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2226
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3077
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3299
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3460
+#: core/classes/class.arprice_preview_editor_option.php:138
+#: core/classes/class.arprice_preview_editor_option.php:802
+#: core/classes/class.arprice_preview_editor_option.php:1025
+#: core/classes/class.arprice_preview_editor_option.php:1240
+#: core/classes/class.arprice_preview_editor_option.php:1599
+#: core/classes/class.arprice_preview_editor_option.php:1831
+#: core/classes/class.arprice_preview_editor_option.php:2056
+#: core/classes/class.arprice_preview_editor_option.php:2235
+#: core/classes/class.arprice_preview_editor_option.php:2352
+#: core/classes/class.arprice_preview_editor_option.php:2576
+#: core/classes/class.arprice_preview_editor_option.php:2803
+#: core/classes/class.arprice_preview_editor_option.php:3007
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:138
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:802
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1025
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1240
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1599
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1831
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2056
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2235
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2352
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2576
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2803
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3007
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:138
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:802
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1025
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1240
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1599
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1831
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2056
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2235
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2352
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2576
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2803
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3007
+#@ ARPricelite
+msgid "Font Family"
+msgstr "Font Family"
+
+#: core/classes/class.arprice_preview_editor.php:1618
+#: core/classes/class.arprice_preview_editor.php:1747
+#: core/classes/class.arprice_preview_editor.php:1877
+#: core/classes/class.arprice_preview_editor.php:2007
+#: core/classes/class.arprice_preview_editor.php:2137
+#: core/classes/class.arprice_preview_editor.php:2267
+#: core/classes/class.arprice_preview_editor.php:3320
+#: core/classes/class.arprice_preview_editor.php:3480
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1610
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1739
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1869
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1999
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2129
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2259
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3311
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3472
+#: core/classes/class.arprice_preview_editor_option.php:151
+#: core/classes/class.arprice_preview_editor_option.php:817
+#: core/classes/class.arprice_preview_editor_option.php:1040
+#: core/classes/class.arprice_preview_editor_option.php:1255
+#: core/classes/class.arprice_preview_editor_option.php:1612
+#: core/classes/class.arprice_preview_editor_option.php:1844
+#: core/classes/class.arprice_preview_editor_option.php:2069
+#: core/classes/class.arprice_preview_editor_option.php:2250
+#: core/classes/class.arprice_preview_editor_option.php:2367
+#: core/classes/class.arprice_preview_editor_option.php:2591
+#: core/classes/class.arprice_preview_editor_option.php:2816
+#: core/classes/class.arprice_preview_editor_option.php:3020
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:151
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:817
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1040
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1255
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1612
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1844
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2069
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2250
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2367
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2591
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2816
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3020
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:151
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:817
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1040
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1255
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1612
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1844
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2069
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2250
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2367
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2591
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2816
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3020
+#@ ARPricelite
+msgid "Font Preview"
+msgstr "Font Preview"
+
+#: core/classes/class.arprice_preview_editor.php:1622
+#: core/classes/class.arprice_preview_editor.php:1751
+#: core/classes/class.arprice_preview_editor.php:1881
+#: core/classes/class.arprice_preview_editor.php:2011
+#: core/classes/class.arprice_preview_editor.php:2141
+#: core/classes/class.arprice_preview_editor.php:2271
+#: core/classes/class.arprice_preview_editor.php:3105
+#: core/classes/class.arprice_preview_editor.php:3326
+#: core/classes/class.arprice_preview_editor.php:3487
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1614
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1743
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1873
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2003
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2133
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2263
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3096
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3317
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3479
+#: core/classes/class.arprice_preview_editor_option.php:161
+#: core/classes/class.arprice_preview_editor_option.php:824
+#: core/classes/class.arprice_preview_editor_option.php:1047
+#: core/classes/class.arprice_preview_editor_option.php:1262
+#: core/classes/class.arprice_preview_editor_option.php:1620
+#: core/classes/class.arprice_preview_editor_option.php:1852
+#: core/classes/class.arprice_preview_editor_option.php:2076
+#: core/classes/class.arprice_preview_editor_option.php:2257
+#: core/classes/class.arprice_preview_editor_option.php:2374
+#: core/classes/class.arprice_preview_editor_option.php:2598
+#: core/classes/class.arprice_preview_editor_option.php:2823
+#: core/classes/class.arprice_preview_editor_option.php:3028
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:161
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:824
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1047
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1262
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1620
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1852
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2076
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2257
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2374
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2598
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2823
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3028
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:161
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:824
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1047
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1262
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1620
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1852
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2076
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2257
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2374
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2598
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2823
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3028
+#@ ARPricelite
+msgid "Font Size"
+msgstr "Font Size"
+
+#: core/classes/class.arprice_preview_editor.php:3134
+#: core/classes/class.arprice_preview_editor.php:3351
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3125
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3342
+#: core/classes/class.arprice_preview_editor_option.php:189
+#: core/classes/class.arprice_preview_editor_option.php:851
+#: core/classes/class.arprice_preview_editor_option.php:1074
+#: core/classes/class.arprice_preview_editor_option.php:1285
+#: core/classes/class.arprice_preview_editor_option.php:1649
+#: core/classes/class.arprice_preview_editor_option.php:1880
+#: core/classes/class.arprice_preview_editor_option.php:2104
+#: core/classes/class.arprice_preview_editor_option.php:2285
+#: core/classes/class.arprice_preview_editor_option.php:2405
+#: core/classes/class.arprice_preview_editor_option.php:2626
+#: core/classes/class.arprice_preview_editor_option.php:2852
+#: core/classes/class.arprice_preview_editor_option.php:3055
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:189
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:851
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1074
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1285
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1649
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1880
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2104
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2285
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2405
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2626
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2852
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3055
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:189
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:851
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1074
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1285
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1649
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1880
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2104
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2285
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2405
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2626
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2852
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3055
+#@ ARPricelite
+msgid "Font Style"
+msgstr "Font Style"
+
+#: core/classes/class.arprice_preview_editor.php:3077
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3068
+#@ ARPricelite
+msgid "Footer Background"
+msgstr "Footer Background"
+
+#: core/classes/class.arprice_preview_editor.php:3049
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3040
+#: core/classes/class.arprice_preview_editor_option.php:83
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:83
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:83
+#@ ARPricelite
+msgid "Footer Content"
+msgstr "Footer Content"
+
+#: core/classes/class.arprice_preview_editor.php:2788
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2780
+#: core/classes/class.arprice_preview_editor_option.php:67
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:67
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:67
+#@ ARPricelite
+msgid "Footer General Settings"
+msgstr "Footer General Settings"
+
+#: core/views/arprice_listing_editor.php:348
+#: core/views/arprice_listing_editor_21dec2016.php:342
+#@ ARPricelite
+msgid "Footer section is hidden."
+msgstr "Footer section is hidden."
+
+#: core/classes/class.arprice_preview_editor.php:622
+#: core/classes/class.arprice_preview_editor_21dec2016.php:614
+#@ ARPricelite
+msgid "Full Column Clickable"
+msgstr "Full Column Clickable"
+
+#: core/views/arprice_global_settings.php:265
+#@ ARPricelite
+msgid "Global Custom CSS"
+msgstr "Global Custom CSS"
+
+#: core/views/arprice_global_settings.php:236
+#@ ARPricelite
+msgid "Global Settings"
+msgstr "Global Settings"
+
+#: arprice-responsive-pricing-table.php:1049
+#@ ARPricelite
+msgid "Global Settings Arpricelite Pricing Tables"
+msgstr "Global Settings Arpricelite Pricing Tables"
+
+#: core/classes/class.arprice_form.php:3869
+#: core/classes/class.arprice_form_21dec2016.php:3493
+#: core/classes/class.arprice_form_22dec2016.php:3603
+#: core/classes/class.arprice_preview_editor.php:1605
+#: core/classes/class.arprice_preview_editor.php:1734
+#: core/classes/class.arprice_preview_editor.php:1864
+#: core/classes/class.arprice_preview_editor.php:1994
+#: core/classes/class.arprice_preview_editor.php:2124
+#: core/classes/class.arprice_preview_editor.php:2254
+#: core/classes/class.arprice_preview_editor.php:4571
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1597
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1726
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1856
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1986
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2116
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2246
+#: core/classes/class.arprice_preview_editor_21dec2016.php:4563
+#@ ARPricelite
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: arprice-responsive-pricing-table.php:449
+#@ ARPricelite
+msgid "Google Map"
+msgstr "Google Map"
+
+#: core/classes/class.arprice_preview_editor.php:2785
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2777
+#: core/classes/class.arprice_preview_editor_option.php:32
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:32
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:32
+#@ ARPricelite
+msgid "Header Settings"
+msgstr "Header Settings"
+
+#: arprice-responsive-pricing-table.php:455
+#: arprice-responsive-pricing-table.php:460
+#: arprice-responsive-pricing-table.php:465
+#: arprice-responsive-pricing-table.php:470
+#: arprice-responsive-pricing-table.php:489
+#: arprice-responsive-pricing-table.php:498
+#: arprice-responsive-pricing-table.php:503
+#: arprice-responsive-pricing-table.php:508
+#: arprice-responsive-pricing-table.php:513
+#: arprice-responsive-pricing-table.php:518
+#@ ARPricelite
+msgid "Height"
+msgstr "Height"
+
+#: core/classes/class.arprice_preview_editor.php:742
+#: core/classes/class.arprice_preview_editor_21dec2016.php:734
+#@ ARPricelite
+msgid "Hide Caption Column"
+msgstr "Hide Caption Column"
+
+#: core/classes/class.arprice_preview_editor.php:755
+#: core/classes/class.arprice_preview_editor_21dec2016.php:747
+#@ ARPricelite
+msgid "Hide blank rows from bottom"
+msgstr "Hide blank rows from bottom"
+
+#: core/classes/class.arprice_preview_editor_option.php:3253
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3253
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3253
+#@ ARPricelite
+msgid "Hide default button"
+msgstr "Hide default button"
+
+#: core/classes/class.arprice_preview_editor_option.php:285
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:285
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:285
+#@ ARPricelite
+msgid "Highlight Column"
+msgstr "Highlight Column"
+
+#: arprice-responsive-pricing-table.php:433
+#: core/views/arprice_listing_editor.php:657
+#: core/views/arprice_listing_editor_21dec2016.php:651
+#@ ARPricelite
+msgid "Image"
+msgstr "Image"
+
+#: arprice-responsive-pricing-table.php:454
+#: core/classes/class.arprice_form.php:3985
+#: core/classes/class.arprice_form_21dec2016.php:3609
+#: core/classes/class.arprice_form_22dec2016.php:3719
+#: core/classes/class.arprice_preview_editor.php:3241
+#: core/classes/class.arprice_preview_editor.php:3587
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3232
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3579
+#: core/classes/class.arprice_preview_editor_option.php:676
+#: core/classes/class.arprice_preview_editor_option.php:766
+#: core/classes/class.arprice_preview_editor_option.php:981
+#: core/classes/class.arprice_preview_editor_option.php:1198
+#: core/classes/class.arprice_preview_editor_option.php:1347
+#: core/classes/class.arprice_preview_editor_option.php:1526
+#: core/classes/class.arprice_preview_editor_option.php:1791
+#: core/classes/class.arprice_preview_editor_option.php:2011
+#: core/classes/class.arprice_preview_editor_option.php:2528
+#: core/classes/class.arprice_preview_editor_option.php:2763
+#: core/classes/class.arprice_preview_editor_option.php:3175
+#: core/classes/class.arprice_preview_editor_option.php:3441
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:676
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:766
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:981
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1198
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1347
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1526
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1791
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2011
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2528
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2763
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3175
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3441
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:676
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:766
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:981
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1198
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1347
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1526
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1791
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2011
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2528
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2763
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3175
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3441
+#@ ARPricelite
+msgid "Image URL"
+msgstr "Image URL"
+
+#: core/views/arprice_import_export.php:313
+#@ ARPricelite
+msgid "Import"
+msgstr "Import"
+
+#: core/views/arprice_import_export.php:216
+#@ ARPricelite
+msgid "Import / Export Pricing Tables"
+msgstr "Import / Export Pricing Tables"
+
+#: core/views/arprice_import_export.php:283
+#@ ARPricelite
+msgid "Import Pricing Tables"
+msgstr "Import Pricing Tables"
+
+#: arprice-responsive-pricing-table.php:1075
+#@ ARPricelite
+msgid "Import/Export"
+msgstr "Import/Export"
+
+#: arprice-responsive-pricing-table.php:1048
+#@ ARPricelite
+msgid "Import/Export Arpricelite Pricing Tables"
+msgstr "Import/Export Arpricelite Pricing Tables"
+
+#: arprice-responsive-pricing-table.php:494
+#@ ARPricelite
+msgid "Info window by default?"
+msgstr "Info window by default?"
+
+#: core/classes/class.arprice_form.php:4183
+#: core/classes/class.arprice_form_21dec2016.php:3807
+#: core/classes/class.arprice_form_22dec2016.php:3917
+#: core/classes/class.arprice_preview_editor.php:1685
+#: core/classes/class.arprice_preview_editor.php:1814
+#: core/classes/class.arprice_preview_editor.php:1944
+#: core/classes/class.arprice_preview_editor.php:2074
+#: core/classes/class.arprice_preview_editor.php:2204
+#: core/classes/class.arprice_preview_editor.php:2331
+#: core/classes/class.arprice_preview_editor.php:3172
+#: core/classes/class.arprice_preview_editor.php:3362
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1677
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1806
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1936
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2066
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2196
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2323
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3163
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3353
+#: core/classes/class.arprice_preview_editor_option.php:227
+#: core/classes/class.arprice_preview_editor_option.php:891
+#: core/classes/class.arprice_preview_editor_option.php:1116
+#: core/classes/class.arprice_preview_editor_option.php:1692
+#: core/classes/class.arprice_preview_editor_option.php:1923
+#: core/classes/class.arprice_preview_editor_option.php:2148
+#: core/classes/class.arprice_preview_editor_option.php:2449
+#: core/classes/class.arprice_preview_editor_option.php:2669
+#: core/classes/class.arprice_preview_editor_option.php:2895
+#: core/classes/class.arprice_preview_editor_option.php:3096
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:227
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:891
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1116
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1692
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1923
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2148
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2449
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2669
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2895
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3096
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:227
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:891
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1116
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1692
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1923
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2148
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2449
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2669
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2895
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3096
+#@ ARPricelite
+msgid "Italic"
+msgstr "Italic"
+
+#: core/classes/class.arprice_form.php:4087
+#: core/classes/class.arprice_form_21dec2016.php:3711
+#: core/classes/class.arprice_form_22dec2016.php:3821
+#: core/classes/class.arprice_preview_editor_option.php:3334
+#: core/classes/class.arprice_preview_editor_option.php:3536
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3334
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3536
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3334
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3536
+#@ ARPricelite
+msgid "Label"
+msgstr "Label"
+
+#: core/classes/class.arprice_preview_editor_option.php:48
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:48
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:48
+#@ ARPricelite
+msgid "Label Description Settings"
+msgstr "Label Description Settings"
+
+#: core/classes/class.arprice_preview_editor_option.php:1734
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1734
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1734
+#@ ARPricelite
+msgid "Label Text"
+msgstr "Label Text"
+
+#: arprice-responsive-pricing-table.php:531
+#: core/classes/class.arprice_preview_editor_option.php:1440
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1440
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1440
+#@ ARPricelite
+msgid "Large"
+msgstr "Large"
+
+#: core/views/arprice_template_listing.php:107
+#@ ARPricelite
+msgid "Last modified"
+msgstr "Last modified"
+
+#: core/views/arprice_global_settings.php:435
+#@ ARPricelite
+msgid "Learn More"
+msgstr "Learn More"
+
+#: core/classes/class.arprice_preview_editor.php:2903
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2895
+#: core/views/arprice_listing_editor.php:739
+#: core/views/arprice_listing_editor_21dec2016.php:733
+#@ ARPricelite
+msgid "Left"
+msgstr "Left"
+
+#: core/views/arprice_listing_editor.php:819
+#: core/views/arprice_listing_editor_21dec2016.php:813
+#@ ARPricelite
+msgid "Left / Right"
+msgstr "Left / Right"
+
+#: core/views/arprice_listing_editor.php:970
+#: core/views/arprice_listing_editor_21dec2016.php:964
+#@ ARPricelite
+msgid "Limited icons in lite version"
+msgstr "Limited icons in lite version"
+
+#: core/classes/class.arprice_preview_editor.php:1693
+#: core/classes/class.arprice_preview_editor.php:1822
+#: core/classes/class.arprice_preview_editor.php:1952
+#: core/classes/class.arprice_preview_editor.php:2082
+#: core/classes/class.arprice_preview_editor.php:2212
+#: core/classes/class.arprice_preview_editor.php:2339
+#: core/classes/class.arprice_preview_editor.php:3180
+#: core/classes/class.arprice_preview_editor.php:3370
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1685
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1814
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1944
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2074
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2204
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2331
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3171
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3361
+#: core/classes/class.arprice_preview_editor_option.php:235
+#: core/classes/class.arprice_preview_editor_option.php:899
+#: core/classes/class.arprice_preview_editor_option.php:1124
+#: core/classes/class.arprice_preview_editor_option.php:1700
+#: core/classes/class.arprice_preview_editor_option.php:1931
+#: core/classes/class.arprice_preview_editor_option.php:2156
+#: core/classes/class.arprice_preview_editor_option.php:2457
+#: core/classes/class.arprice_preview_editor_option.php:2677
+#: core/classes/class.arprice_preview_editor_option.php:2903
+#: core/classes/class.arprice_preview_editor_option.php:3104
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:235
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:899
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1124
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1700
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1931
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2156
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2457
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2677
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2903
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3104
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:235
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:899
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1124
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1700
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1931
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2156
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2457
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2677
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2903
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3104
+#@ ARPricelite
+msgid "Line-through"
+msgstr "Line-through"
+
+#: arprice-responsive-pricing-table.php:478
+#: arprice-responsive-pricing-table.php:482
+#@ ARPricelite
+msgid "Loop"
+msgstr "Loop"
+
+#: arprice-responsive-pricing-table.php:483
+#@ ARPricelite
+msgid "MP3 source"
+msgstr "MP3 source"
+
+#: arprice-responsive-pricing-table.php:473
+#@ ARPricelite
+msgid "MP4 source"
+msgstr "MP4 source"
+
+#: arprice-responsive-pricing-table.php:493
+#@ ARPricelite
+msgid "Map info window content"
+msgstr "Map info window content"
+
+#: arprice-responsive-pricing-table.php:491
+#@ ARPricelite
+msgid "Marker image source"
+msgstr "Marker image source"
+
+#: arprice-responsive-pricing-table.php:492
+#@ ARPricelite
+msgid "Marker title"
+msgstr "Marker title"
+
+#: core/classes/class.arprice_preview_editor_option.php:34
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:34
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:34
+#@ ARPricelite
+msgid "Media Settings"
+msgstr "Media Settings"
+
+#: arprice-responsive-pricing-table.php:530
+#: core/classes/class.arprice_preview_editor_option.php:1439
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1439
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1439
+#@ ARPricelite
+msgid "Medium"
+msgstr "Medium"
+
+#: arprice-responsive-pricing-table.php:440
+#@ ARPricelite
+msgid "Metacafe Video"
+msgstr "Metacafe Video"
+
+#: arprice-responsive-pricing-table.php:445
+#@ ARPricelite
+msgid "Mixcloud Audio"
+msgstr "Mixcloud Audio"
+
+#: core/classes/class.arprice_preview_editor.php:541
+#: core/classes/class.arprice_preview_editor_21dec2016.php:533
+#@ ARPricelite
+msgid "Mobile"
+msgstr "Mobile"
+
+#: core/views/arprice_global_settings.php:291
+#@ ARPricelite
+msgid "Mobile View"
+msgstr "Mobile View"
+
+#: core/views/arprice_template_listing.php:35
+#@ ARPricelite
+msgid "My Pricing Tables"
+msgstr "My Pricing Tables"
+
+#: core/views/arprice_import_export.php:303
+#@ ARPricelite
+msgid "No file Selected"
+msgstr "No file Selected"
+
+#: core/classes/class.arp_default_settings.php:3179
+#: core/classes/class.arp_default_settings_21dec2016.php:3098
+#: core/classes/class.arprice_preview_editor.php:964
+#: core/classes/class.arprice_preview_editor_21dec2016.php:956
+#@ ARPricelite
+msgid "None"
+msgstr "None"
+
+#: core/classes/class.arprice_form.php:4183
+#: core/classes/class.arprice_form_21dec2016.php:3807
+#: core/classes/class.arprice_form_22dec2016.php:3917
+#: core/classes/class.arprice_preview_editor_option.php:359
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:359
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:359
+#: core/views/arprice_listing_editor.php:1080
+#@ ARPricelite
+msgid "Normal"
+msgstr "Normal"
+
+#: core/classes/class.arprice_preview_editor.php:3444
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3434
+#@ ARPricelite
+msgid "Odd Background"
+msgstr "Odd Background"
+
+#: arprice-responsive-pricing-table.php:475
+#: arprice-responsive-pricing-table.php:484
+#@ ARPricelite
+msgid "Ogg source"
+msgstr "Ogg source"
+
+#: core/classes/class.arprice_form.php:4061
+#: core/classes/class.arprice_form.php:4072
+#: core/classes/class.arprice_form.php:4136
+#: core/classes/class.arprice_form_21dec2016.php:3685
+#: core/classes/class.arprice_form_21dec2016.php:3696
+#: core/classes/class.arprice_form_21dec2016.php:3760
+#: core/classes/class.arprice_form_22dec2016.php:3795
+#: core/classes/class.arprice_form_22dec2016.php:3806
+#: core/classes/class.arprice_form_22dec2016.php:3870
+#: core/classes/class.arprice_preview_editor.php:2775
+#: core/classes/class.arprice_preview_editor.php:2809
+#: core/classes/class.arprice_preview_editor.php:2923
+#: core/classes/class.arprice_preview_editor.php:3037
+#: core/classes/class.arprice_preview_editor.php:3206
+#: core/classes/class.arprice_preview_editor.php:3394
+#: core/classes/class.arprice_preview_editor.php:3514
+#: core/classes/class.arprice_preview_editor.php:3669
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2767
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2801
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2915
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3028
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3197
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3385
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3506
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3661
+#: core/classes/class.arprice_preview_editor_option.php:24
+#: core/classes/class.arprice_preview_editor_option.php:60
+#: core/classes/class.arprice_preview_editor_option.php:261
+#: core/classes/class.arprice_preview_editor_option.php:351
+#: core/classes/class.arprice_preview_editor_option.php:621
+#: core/classes/class.arprice_preview_editor_option.php:923
+#: core/classes/class.arprice_preview_editor_option.php:1143
+#: core/classes/class.arprice_preview_editor_option.php:1466
+#: core/classes/class.arprice_preview_editor_option.php:1724
+#: core/classes/class.arprice_preview_editor_option.php:1954
+#: core/classes/class.arprice_preview_editor_option.php:2179
+#: core/classes/class.arprice_preview_editor_option.php:2339
+#: core/classes/class.arprice_preview_editor_option.php:2481
+#: core/classes/class.arprice_preview_editor_option.php:2706
+#: core/classes/class.arprice_preview_editor_option.php:2930
+#: core/classes/class.arprice_preview_editor_option.php:3127
+#: core/classes/class.arprice_preview_editor_option.php:3216
+#: core/classes/class.arprice_preview_editor_option.php:3313
+#: core/classes/class.arprice_preview_editor_option.php:3511
+#: core/classes/class.arprice_preview_editor_option.php:3569
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:24
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:60
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:261
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:351
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:621
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:923
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1143
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1466
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1724
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1954
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2179
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2339
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2481
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2706
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2930
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3127
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3216
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3313
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3511
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3569
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:24
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:60
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:261
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:351
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:621
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:923
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1143
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1466
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1724
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1954
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2179
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2339
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2481
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2706
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2930
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3127
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3216
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3313
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3511
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3569
+#: core/views/arprice_listing_editor.php:345
+#: core/views/arprice_listing_editor.php:894
+#: core/views/arprice_listing_editor.php:1352
+#: core/views/arprice_listing_editor_21dec2016.php:339
+#: core/views/arprice_listing_editor_21dec2016.php:888
+#@ ARPricelite
+msgid "Ok"
+msgstr "Ok"
+
+#: core/views/arprice_listing_editor.php:921
+#: core/views/arprice_listing_editor_21dec2016.php:915
+#: core/views/arprice_template_listing.php:318
+#@ ARPricelite
+msgid "Okay"
+msgstr "Okay"
+
+#: core/classes/class.arprice_preview_editor.php:760
+#: core/classes/class.arprice_preview_editor_21dec2016.php:752
+#@ ARPricelite
+msgid "Only bottom rows will hide and shown in preview and front end."
+msgstr "Only bottom rows will hide and shown in preview and front end."
+
+#: core/classes/class.arprice_preview_editor.php:911
+#: core/classes/class.arprice_preview_editor_21dec2016.php:903
+#@ ARPricelite
+msgid "Opacity"
+msgstr "Opacity"
+
+#: core/classes/class.arprice_preview_editor.php:936
+#: core/classes/class.arprice_preview_editor_21dec2016.php:928
+#@ ARPricelite
+msgid "Opacity will be shown in preview and frontend only."
+msgstr "Opacity will be shown in preview and frontend only."
+
+#: core/classes/class.arprice_preview_editor_option.php:3288
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3288
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3288
+#@ ARPricelite
+msgid "Open in New Window?"
+msgstr "Open in New Window?"
+
+#: core/views/arprice_listing_editor.php:660
+#: core/views/arprice_listing_editor_21dec2016.php:654
+#@ ARPricelite
+msgid "Other"
+msgstr "Other"
+
+#: core/views/arprice_import_export.php:231
+#@ ARPricelite
+msgid "Please Select File."
+msgstr "Please Select File."
+
+#: core/views/arprice_import_export.php:245
+#@ ARPricelite
+msgid "Please Select Table(s)"
+msgstr "Please Select Table(s)"
+
+#: core/views/arprice_import_export.php:234
+#@ ARPricelite
+msgid "Please Select Table."
+msgstr "Please Select Table."
+
+#: core/views/arprice_import_export.php:228
+#@ ARPricelite
+msgid "Please Select Valid File."
+msgstr "Please Select Valid File."
+
+#: core/views/arprice_template_listing.php:156
+#@ ARPricelite
+msgid "Please Select Your Template"
+msgstr "Please Select Your Template"
+
+#: core/views/arprice_import_export.php:222
+#@ ARPricelite
+msgid "Please Select file exported from ARPrice Plugin."
+msgstr "Please Select file exported from ARPrice Plugin."
+
+#: core/views/arprice_global_settings.php:278
+#: core/views/arprice_global_settings.php:336
+#@ ARPricelite
+msgid "Please Upgrade to premium version to use this feature."
+msgstr "Please Upgrade to premium version to use this feature."
+
+#: core/classes/class.arprice_preview_editor.php:4559
+#: core/classes/class.arprice_preview_editor_21dec2016.php:4551
+#: core/views/arprice_front.php:1431
+#@ ARPricelite
+msgid "Please select valid table"
+msgstr "Please select valid table"
+
+#: core/views/arprice_listing_editor.php:938
+#: core/views/arprice_listing_editor_21dec2016.php:932
+#@ ARPricelite
+msgid "Please take a quick tour of basic functionalities."
+msgstr "Please take a quick tour of basic functionalities."
+
+#: core/views/arprice_global_settings.php:432
+#@ ARPricelite
+msgid "Please upgrade to premium version to unlock this feature."
+msgstr "Please upgrade to premium version to unlock this feature."
+
+#: core/views/arprice_listing_editor.php:981
+#: core/views/arprice_listing_editor.php:986
+#: core/views/arprice_listing_editor.php:991
+#: core/views/arprice_listing_editor_21dec2016.php:975
+#: core/views/arprice_listing_editor_21dec2016.php:980
+#: core/views/arprice_listing_editor_21dec2016.php:985
+#@ ARPricelite
+msgid "Please upgrade to premium version to use this icons"
+msgstr "Please upgrade to premium version to use this icons"
+
+#: core/classes/class.arprice_preview_editor_option.php:330
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:330
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:330
+#@ ARPricelite
+msgid "Post variables"
+msgstr "Post variables"
+
+#: arprice-responsive-pricing-table.php:476
+#@ ARPricelite
+msgid "Poster image source"
+msgstr "Poster image source"
+
+#: core/views/arprice_listing_editor.php:714
+#: core/views/arprice_listing_editor_21dec2016.php:708
+#@ ARPricelite
+msgid "Preset Ribbons"
+msgstr "Preset Ribbons"
+
+#: core/classes/class.arprice_preview_editor.php:204
+#: core/classes/class.arprice_preview_editor_21dec2016.php:204
+#: core/views/arprice_template_listing.php:141
+#@ ARPricelite
+msgid "Preview"
+msgstr "Preview"
+
+#: core/classes/class.arprice_preview_editor_option.php:36
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:36
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:36
+#@ ARPricelite
+msgid "Price Settings"
+msgstr "Price Settings"
+
+#: core/classes/class.arprice_preview_editor_option.php:1476
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1476
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1476
+#@ ARPricelite
+msgid "Price Text"
+msgstr "Price Text"
+
+#: core/widgets/arprice_widget.php:23
+#@ ARPricelite
+msgid "Pricing Table Not Found"
+msgstr "Pricing Table Not Found"
+
+#: core/views/arprice_global_settings.php:215
+#@ ARPricelite
+msgid "Pricing Table Settings"
+msgstr "Pricing Table Settings"
+
+#: core/views/arprice_listing_editor.php:532
+#: core/views/arprice_listing_editor_21dec2016.php:526
+#@ ARPricelite
+msgid "Pricing table saved successfully."
+msgstr "Pricing table saved successfully."
+
+#: arprice-responsive-pricing-table.php:254
+#: core/classes/class.arprice_preview_editor.php:533
+#: core/classes/class.arprice_preview_editor.php:622
+#: core/classes/class.arprice_preview_editor.php:639
+#: core/classes/class.arprice_preview_editor.php:913
+#: core/classes/class.arprice_preview_editor.php:1447
+#: core/classes/class.arprice_preview_editor.php:1473
+#: core/classes/class.arprice_preview_editor.php:1493
+#: core/classes/class.arprice_preview_editor.php:1512
+#: core/classes/class.arprice_preview_editor.php:1559
+#: core/classes/class.arprice_preview_editor_21dec2016.php:525
+#: core/classes/class.arprice_preview_editor_21dec2016.php:614
+#: core/classes/class.arprice_preview_editor_21dec2016.php:631
+#: core/classes/class.arprice_preview_editor_21dec2016.php:905
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1439
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1465
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1485
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1504
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1551
+#@ ARPricelite
+msgid "Pro Version"
+msgstr "Pro Version"
+
+#: core/views/arprice_global_settings.php:248
+#@ ARPricelite
+msgid "Product License"
+msgstr "Product License"
+
+#: core/classes/class.arprice_preview_editor.php:2829
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2821
+#: core/views/arprice_listing_editor.php:817
+#: core/views/arprice_listing_editor.php:823
+#: core/views/arprice_listing_editor_21dec2016.php:811
+#: core/views/arprice_listing_editor_21dec2016.php:817
+#@ ARPricelite
+msgid "Px"
+msgstr "Px"
+
+#: core/classes/class.arprice_form.php:4013
+#: core/classes/class.arprice_form_21dec2016.php:3637
+#: core/classes/class.arprice_form_22dec2016.php:3747
+#: core/classes/class.arprice_preview_editor.php:3269
+#: core/classes/class.arprice_preview_editor.php:3615
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3260
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3607
+#: core/classes/class.arprice_preview_editor_option.php:704
+#: core/classes/class.arprice_preview_editor_option.php:1009
+#: core/classes/class.arprice_preview_editor_option.php:1226
+#: core/classes/class.arprice_preview_editor_option.php:1375
+#: core/classes/class.arprice_preview_editor_option.php:1554
+#: core/classes/class.arprice_preview_editor_option.php:1819
+#: core/classes/class.arprice_preview_editor_option.php:2039
+#: core/classes/class.arprice_preview_editor_option.php:2556
+#: core/classes/class.arprice_preview_editor_option.php:2791
+#: core/classes/class.arprice_preview_editor_option.php:3192
+#: core/classes/class.arprice_preview_editor_option.php:3469
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:704
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1009
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1226
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1375
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1554
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1819
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2039
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2556
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2791
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3192
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3469
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:704
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1009
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1226
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1375
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1554
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1819
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2039
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2556
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2791
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3192
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3469
+#@ ARPricelite
+msgid "Remove"
+msgstr "Remove"
+
+#: core/classes/class.arprice_preview_editor_option.php:796
+#: core/classes/class.arprice_preview_editor_option.php:3164
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:796
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3164
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:796
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3164
+#@ ARPricelite
+msgid "Remove Image"
+msgstr "Remove Image"
+
+#: core/classes/class.arprice_preview_editor_option.php:322
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:322
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:322
+#@ ARPricelite
+msgid "Remove Ribbon"
+msgstr "Remove Ribbon"
+
+#: core/views/arprice_global_settings.php:286
+#@ ARPricelite
+msgid "Resonsive Settings"
+msgstr "Resonsive Settings"
+
+#: core/classes/class.arprice_preview_editor.php:515
+#: core/classes/class.arprice_preview_editor_21dec2016.php:507
+#@ ARPricelite
+msgid "Responsive column"
+msgstr "Responsive column"
+
+#: core/classes/class.arprice_preview_editor_option.php:300
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:300
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:300
+#@ ARPricelite
+msgid "Ribbon"
+msgstr "Ribbon"
+
+#: core/views/arprice_listing_editor.php:733
+#: core/views/arprice_listing_editor_21dec2016.php:727
+#@ ARPricelite
+msgid "Ribbon Position"
+msgstr "Ribbon Position"
+
+#: core/views/arprice_listing_editor.php:704
+#: core/views/arprice_listing_editor_21dec2016.php:698
+#@ ARPricelite
+msgid "Ribbon Style"
+msgstr "Ribbon Style"
+
+#: core/views/arprice_listing_editor.php:771
+#: core/views/arprice_listing_editor_21dec2016.php:765
+#@ ARPricelite
+msgid "Ribbon Text"
+msgstr "Ribbon Text"
+
+#: core/classes/class.arprice_preview_editor.php:2905
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2897
+#: core/views/arprice_listing_editor.php:735
+#: core/views/arprice_listing_editor.php:738
+#: core/views/arprice_listing_editor_21dec2016.php:729
+#: core/views/arprice_listing_editor_21dec2016.php:732
+#@ ARPricelite
+msgid "Right"
+msgstr "Right"
+
+#: core/classes/class.arprice_preview_editor.php:198
+#: core/classes/class.arprice_preview_editor_21dec2016.php:198
+#@ ARPricelite
+msgid "Save"
+msgstr "Save"
+
+#: core/views/arprice_global_settings.php:417
+#@ ARPricelite
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: arprice-responsive-pricing-table.php:437
+#@ ARPricelite
+msgid "Screenr Video"
+msgstr "Screenr Video"
+
+#: core/views/arprice_import_export.php:293
+#@ ARPricelite
+msgid "Select File :"
+msgstr "Select File :"
+
+#: core/classes/class.arprice_preview_editor_option.php:303
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:303
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:303
+#: core/views/arprice_listing_editor.php:698
+#: core/views/arprice_listing_editor.php:708
+#: core/views/arprice_listing_editor_21dec2016.php:692
+#: core/views/arprice_listing_editor_21dec2016.php:702
+#@ ARPricelite
+msgid "Select Ribbon"
+msgstr "Select Ribbon"
+
+#: core/views/arprice_template_listing.php:142
+#@ ARPricelite
+msgid "Select Table"
+msgstr "Select Table"
+
+#: core/views/arprice_listing_editor.php:778
+#: core/views/arprice_listing_editor_21dec2016.php:772
+#@ ARPricelite
+msgid "Set Colors"
+msgstr "Set Colors"
+
+#: arprice-responsive-pricing-table.php:1077
+#@ ARPricelite
+msgid "Settings"
+msgstr "Settings"
+
+#: core/classes/class.arprice_preview_editor.php:188
+#: core/classes/class.arprice_preview_editor_21dec2016.php:188
+#: core/views/arprice_template_listing.php:129
+#@ ARPricelite
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: core/views/arprice_listing_editor.php:942
+#: core/views/arprice_listing_editor_21dec2016.php:936
+#@ ARPricelite
+msgid "Skip Tour"
+msgstr "Skip Tour"
+
+#: arprice-responsive-pricing-table.php:529
+#: core/classes/class.arprice_preview_editor_option.php:1438
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1438
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1438
+#@ ARPricelite
+msgid "Small"
+msgstr "Small"
+
+#: arprice-responsive-pricing-table.php:444
+#@ ARPricelite
+msgid "Soundcloud Audio"
+msgstr "Soundcloud Audio"
+
+#: core/classes/class.arprice_preview_editor.php:602
+#: core/classes/class.arprice_preview_editor_21dec2016.php:594
+#@ ARPricelite
+msgid "Space between Columns"
+msgstr "Space between Columns"
+
+#: core/views/arprice_listing_editor.php:941
+#: core/views/arprice_listing_editor_21dec2016.php:935
+#@ ARPricelite
+msgid "Start Tour"
+msgstr "Start Tour"
+
+#: core/views/arprice_template_listing.php:119
+#: core/views/arprice_template_listing.php:124
+#@ ARPricelite
+msgid "Statistics"
+msgstr "Statistics"
+
+#: arprice-responsive-pricing-table.php:535
+#@ ARPricelite
+msgid "Submit"
+msgstr "Submit"
+
+#: core/widgets/arprice_widget.php:19
+#@ ARPricelite
+msgid "Table"
+msgstr "Table"
+
+#: core/views/arprice_import_export.php:219
+#@ ARPricelite
+msgid "Table Imported Successfully"
+msgstr "Table Imported Successfully"
+
+#: core/classes/class.arprice_preview_editor.php:570
+#: core/classes/class.arprice_preview_editor_21dec2016.php:562
+#@ ARPricelite
+msgid "Tablet"
+msgstr "Tablet"
+
+#: core/views/arprice_global_settings.php:296
+#@ ARPricelite
+msgid "Tablet View"
+msgstr "Tablet View"
+
+#: core/views/arprice_global_settings.php:229
+#@ ARPricelite
+msgid "Template Reset Successfully."
+msgstr "Template Reset Successfully."
+
+#: core/classes/class.arprice_form.php:4329
+#: core/classes/class.arprice_form_21dec2016.php:3952
+#: core/classes/class.arprice_form_22dec2016.php:4063
+#: core/classes/class.arprice_preview_editor.php:3407
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3398
+#: core/classes/class.arprice_preview_editor_option.php:2191
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2191
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2191
+#@ ARPricelite
+msgid "Text Alignment"
+msgstr "Text Alignment"
+
+#: core/classes/class.arprice_preview_editor.php:2938
+#: core/classes/class.arprice_preview_editor.php:2967
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2930
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2959
+#: core/classes/class.arprice_preview_editor_option.php:365
+#: core/classes/class.arprice_preview_editor_option.php:450
+#: core/classes/class.arprice_preview_editor_option.php:481
+#: core/classes/class.arprice_preview_editor_option.php:580
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:365
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:450
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:481
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:580
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:365
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:450
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:481
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:580
+#: core/views/arprice_listing_editor.php:798
+#: core/views/arprice_listing_editor.php:1086
+#: core/views/arprice_listing_editor.php:1192
+#: core/views/arprice_listing_editor.php:1319
+#: core/views/arprice_listing_editor_21dec2016.php:792
+#@ ARPricelite
+msgid "Text Color"
+msgstr "Text Color"
+
+#: core/views/arprice_listing_editor.php:344
+#: core/views/arprice_listing_editor_21dec2016.php:338
+#@ ARPricelite
+msgid "This ribbon is not supported in this template."
+msgstr "This ribbon is not supported in this template."
+
+#: core/views/arprice_template_listing.php:350
+#@ ARPricelite
+msgid "This template is available in premium version"
+msgstr "This template is available in premium version"
+
+#: core/views/arprice_template_listing.php:103
+#: core/widgets/arprice_widget.php:16
+#@ ARPricelite
+msgid "Title"
+msgstr "Title"
+
+#: core/views/arprice_listing_editor.php:1022
+#: core/views/arprice_listing_editor.php:1034
+#: core/views/arprice_listing_editor.php:1046
+#: core/views/arprice_listing_editor.php:1058
+#: core/views/arprice_listing_editor_21dec2016.php:1016
+#: core/views/arprice_listing_editor_21dec2016.php:1028
+#: core/views/arprice_listing_editor_21dec2016.php:1040
+#: core/views/arprice_listing_editor_21dec2016.php:1052
+#: core/views/arprice_template_listing.php:279
+#: core/views/arprice_template_listing.php:381
+#@ ARPricelite
+msgid "To unlock this Feature, Buy Premium Version for $21.00 Only."
+msgstr "To unlock this Feature, Buy Premium Version for $21.00 Only."
+
+#: core/classes/class.arprice_preview_editor.php:387
+#: core/classes/class.arprice_preview_editor.php:1559
+#: core/classes/class.arprice_preview_editor_21dec2016.php:379
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1551
+#@ ARPricelite
+msgid "Toggle Price"
+msgstr "Toggle Price"
+
+#: core/classes/class.arprice_preview_editor.php:373
+#: core/classes/class.arprice_preview_editor.php:1493
+#: core/classes/class.arprice_preview_editor_21dec2016.php:365
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1485
+#@ ARPricelite
+msgid "Tooltip"
+msgstr "Tooltip"
+
+#: core/classes/class.arprice_preview_editor.php:2797
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2789
+#: core/classes/class.arprice_preview_editor_option.php:46
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:46
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:46
+#@ ARPricelite
+msgid "Tooltip Settings"
+msgstr "Tooltip Settings"
+
+#: core/classes/class.arprice_preview_editor.php:2907
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2899
+#: core/views/arprice_listing_editor.php:826
+#: core/views/arprice_listing_editor_21dec2016.php:820
+#@ ARPricelite
+msgid "Top"
+msgstr "Top"
+
+#: arprice-responsive-pricing-table.php:507
+#: arprice-responsive-pricing-table.php:517
+#@ ARPricelite
+msgid "Track id"
+msgstr "Track id"
+
+#: arprice-responsive-pricing-table.php:512
+#@ ARPricelite
+msgid "Track url"
+msgstr "Track url"
+
+#: core/classes/class.arprice_preview_editor.php:1689
+#: core/classes/class.arprice_preview_editor.php:1818
+#: core/classes/class.arprice_preview_editor.php:1948
+#: core/classes/class.arprice_preview_editor.php:2078
+#: core/classes/class.arprice_preview_editor.php:2208
+#: core/classes/class.arprice_preview_editor.php:2335
+#: core/classes/class.arprice_preview_editor.php:3176
+#: core/classes/class.arprice_preview_editor.php:3366
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1681
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1810
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1940
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2070
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2200
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2327
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3167
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3357
+#: core/classes/class.arprice_preview_editor_option.php:231
+#: core/classes/class.arprice_preview_editor_option.php:895
+#: core/classes/class.arprice_preview_editor_option.php:1120
+#: core/classes/class.arprice_preview_editor_option.php:1696
+#: core/classes/class.arprice_preview_editor_option.php:1927
+#: core/classes/class.arprice_preview_editor_option.php:2152
+#: core/classes/class.arprice_preview_editor_option.php:2453
+#: core/classes/class.arprice_preview_editor_option.php:2673
+#: core/classes/class.arprice_preview_editor_option.php:2899
+#: core/classes/class.arprice_preview_editor_option.php:3100
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:231
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:895
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1120
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1696
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1927
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2152
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2453
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2673
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2899
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3100
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:231
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:895
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1120
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1696
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1927
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2152
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2453
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2673
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2899
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3100
+#@ ARPricelite
+msgid "Underline"
+msgstr "Underline"
+
+#: core/views/arprice_global_settings.php:431
+#: core/views/arprice_import_export.php:331
+#: core/views/arprice_listing_editor.php:1009
+#: core/views/arprice_listing_editor.php:1021
+#: core/views/arprice_listing_editor.php:1033
+#: core/views/arprice_listing_editor.php:1045
+#: core/views/arprice_listing_editor.php:1057
+#: core/views/arprice_listing_editor_21dec2016.php:1003
+#: core/views/arprice_listing_editor_21dec2016.php:1015
+#: core/views/arprice_listing_editor_21dec2016.php:1027
+#: core/views/arprice_listing_editor_21dec2016.php:1039
+#: core/views/arprice_listing_editor_21dec2016.php:1051
+#: core/views/arprice_template_listing.php:278
+#: core/views/arprice_template_listing.php:367
+#: core/views/arprice_template_listing.php:380
+#@ ARPricelite
+msgid "Upgrade To Premium Version."
+msgstr "Upgrade To Premium Version."
+
+#: core/views/arprice_upgrade_to_premium.php:7
+#@ ARPricelite
+msgid "Upgrade to Premium"
+msgstr "Upgrade to Premium"
+
+#: core/views/arprice_listing_editor.php:658
+#: core/views/arprice_listing_editor_21dec2016.php:652
+#@ ARPricelite
+msgid "Video"
+msgstr "Video"
+
+#: arprice-responsive-pricing-table.php:459
+#: arprice-responsive-pricing-table.php:464
+#: arprice-responsive-pricing-table.php:469
+#: arprice-responsive-pricing-table.php:497
+#: arprice-responsive-pricing-table.php:502
+#@ ARPricelite
+msgid "Video id"
+msgstr "Video id"
+
+#: arprice-responsive-pricing-table.php:1047
+#@ ARPricelite
+msgid "View Analytics of Arpricelite Pricing Tables"
+msgstr "View Analytics of Arpricelite Pricing Tables"
+
+#: arprice-responsive-pricing-table.php:1045
+#@ ARPricelite
+msgid "View And Manage Arpricelite Pricing Tables"
+msgstr "View And Manage Arpricelite Pricing Tables"
+
+#: arprice-responsive-pricing-table.php:436
+#@ ARPricelite
+msgid "Vimeo Video"
+msgstr "Vimeo Video"
+
+#: arprice-responsive-pricing-table.php:485
+#@ ARPricelite
+msgid "Wav source"
+msgstr "Wav source"
+
+#: arprice-responsive-pricing-table.php:474
+#@ ARPricelite
+msgid "Webm source"
+msgstr "Webm source"
+
+#: core/classes/class.arprice_preview_editor.php:1542
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1534
+#@ ARPricelite
+msgid "When you turn ON CSS Class Info, You will get an extra button by clicking on each column. By clicking on that, you will get all css class information for that particular column."
+msgstr "When you turn ON CSS Class Info, You will get an extra button by clicking on each column. By clicking on that, you will get all css class information for that particular column."
+
+#: arprice-responsive-pricing-table.php:456
+#: core/classes/class.arprice_preview_editor.php:401
+#: core/classes/class.arprice_preview_editor_21dec2016.php:393
+#@ ARPricelite
+msgid "Width"
+msgstr "Width"
+
+#: core/classes/class.arprice_preview_editor_option.php:294
+#: core/classes/class.arprice_preview_editor_option.php:3263
+#: core/classes/class.arprice_preview_editor_option.php:3282
+#: core/classes/class.arprice_preview_editor_option.php:3298
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:294
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3263
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3282
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3298
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:294
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3263
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3282
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3298
+#@ ARPricelite
+msgid "Yes"
+msgstr "Yes"
+
+#: core/views/arprice_import_export.php:332
+#: core/views/arprice_listing_editor.php:1010
+#: core/views/arprice_listing_editor_21dec2016.php:1004
+#@ ARPricelite
+msgid "You can create maximum 4 columns in free version"
+msgstr "You can create maximum 4 columns in free version"
+
+#: core/views/arprice_import_export.php:225
+#: core/views/arprice_template_listing.php:368
+#@ ARPricelite
+msgid "You can create maximum 4 tables in free version."
+msgstr "You can create maximum 4 tables in free version."
+
+#: core/views/arprice_listing_editor.php:919
+#: core/views/arprice_listing_editor_21dec2016.php:913
+#@ ARPricelite
+msgid "You can not delete all columns"
+msgstr "You can not delete all columns"
+
+#: arprice-responsive-pricing-table.php:435
+#@ ARPricelite
+msgid "Youtube video"
+msgstr "Youtube video"
+
+#: arprice-responsive-pricing-table.php:490
+#@ ARPricelite
+msgid "Zoom level"
+msgstr "Zoom level"
+
+#: arprice-responsive-pricing-table.php:443
+#@ ARPricelite
+msgid "html5 Audio"
+msgstr "html5 Audio"
+
+#: arprice-responsive-pricing-table.php:438
+#@ ARPricelite
+msgid "html5 Video"
+msgstr "html5 Video"
+
+#: core/views/arprice_global_settings.php:310
+#: core/views/arprice_global_settings.php:315
+#: core/views/arprice_global_settings.php:320
+#@ ARPricelite
+msgid "px"
+msgstr "px"
+
+#: core/classes/class.arprice_preview_editor.php:2824
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2816
+#@ ARPricelite
+msgid "width (optional)"
+msgstr "width (optional)"
+
+#: core/views/arprice_template_listing.php:292
+#@ ARPricelite
+msgid "Subscribe with Us"
+msgstr "Subscribe with Us"
+
+#: core/views/arprice_template_listing.php:296
+#@ ARPricelite
+msgid "This field cannot be blank."
+msgstr "This field cannot be blank."
+
+#: core/views/arprice_template_listing.php:301
+#@ ARPricelite
+msgid "Send it now"
+msgstr "Send it now"
+
+#: core/views/arprice_template_listing.php:303
+#@ ARPricelite
+msgid "We respect your privacy. We will NEVER share your detail anywhere."
+msgstr "We respect your privacy. We will NEVER share your detail anywhere."
+
+#: core/classes/class.arp_default_settings.php:3118
+#: core/classes/class.arp_default_settings_21dec2016.php:3037
+#@ ARPricelite
+msgid "Shadow"
+msgstr "Shadow"
+
+#: core/classes/class.arp_default_settings.php:3122
+#: core/classes/class.arp_default_settings_21dec2016.php:3041
+#@ ARPricelite
+msgid "Flat"
+msgstr "Flat"
+
+#: core/classes/class.arp_default_settings.php:3126
+#: core/classes/class.arp_default_settings_21dec2016.php:3045
+#@ ARPricelite
+msgid "Classic"
+msgstr "Classic"
+
+#: core/classes/class.arp_default_settings.php:3130
+#: core/classes/class.arp_default_settings_21dec2016.php:3049
+#@ ARPricelite
+msgid "Border"
+msgstr "Border"
+
+#: core/classes/class.arp_default_settings.php:3134
+#: core/classes/class.arp_default_settings_21dec2016.php:3053
+#@ ARPricelite
+msgid "Reverse Border"
+msgstr "Reverse Border"
+
+#: core/classes/class.arp_default_settings.php:3138
+#: core/classes/class.arp_default_settings_21dec2016.php:3057
+#@ ARPricelite
+msgid "Modern"
+msgstr "Modern"
+
+#: core/classes/class.arp_default_settings.php:3149
+#: core/classes/class.arp_default_settings_21dec2016.php:3068
+#@ ARPricelite
+msgid "Circle (Bordered)"
+msgstr "Circle (Bordered)"
+
+#: core/classes/class.arp_default_settings.php:3154
+#: core/classes/class.arp_default_settings_21dec2016.php:3073
+#@ ARPricelite
+msgid "Circle (Solid)"
+msgstr "Circle (Solid)"
+
+#: core/classes/class.arp_default_settings.php:3159
+#: core/classes/class.arp_default_settings_21dec2016.php:3078
+#@ ARPricelite
+msgid "Square (Bordered)"
+msgstr "Square (Bordered)"
+
+#: core/classes/class.arp_default_settings.php:3164
+#: core/classes/class.arp_default_settings_21dec2016.php:3083
+#@ ARPricelite
+msgid "Square (Solid)"
+msgstr "Square (Solid)"
+
+#: core/classes/class.arp_default_settings.php:3169
+#: core/classes/class.arp_default_settings_21dec2016.php:3088
+#@ ARPricelite
+msgid "Rounded Square (Bordered)"
+msgstr "Rounded Square (Bordered)"
+
+#: core/classes/class.arp_default_settings.php:3174
+#: core/classes/class.arp_default_settings_21dec2016.php:3093
+#@ ARPricelite
+msgid "Rounded Square (Solid)"
+msgstr "Rounded Square (Solid)"
+
+#: core/classes/class.arprice_form.php:4026
+#: core/classes/class.arprice_form_21dec2016.php:3650
+#: core/classes/class.arprice_form_22dec2016.php:3760
+#: core/classes/class.arprice_preview_editor.php:3638
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3630
+#: core/classes/class.arprice_preview_editor_option.php:3482
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3482
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3482
+#@ ARPricelite
+msgid "Custom Css"
+msgstr "Custom Css"
+
+#: core/classes/class.arprice_form.php:4029
+#: core/classes/class.arprice_form_21dec2016.php:3653
+#: core/classes/class.arprice_form_22dec2016.php:3763
+#: core/classes/class.arprice_preview_editor.php:3641
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3633
+#: core/classes/class.arprice_preview_editor_option.php:3485
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3485
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3485
+#@ ARPricelite
+msgid "Normal State"
+msgstr "Normal State"
+
+#: core/classes/class.arprice_form.php:4030
+#: core/classes/class.arprice_form_21dec2016.php:3654
+#: core/classes/class.arprice_form_22dec2016.php:3764
+#: core/classes/class.arprice_preview_editor.php:3642
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3634
+#: core/classes/class.arprice_preview_editor_option.php:3486
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3486
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3486
+#@ ARPricelite
+msgid "Hover State"
+msgstr "Hover State"
+
+#: core/classes/class.arprice_form.php:4043
+#: core/classes/class.arprice_form_21dec2016.php:3667
+#: core/classes/class.arprice_form_22dec2016.php:3777
+#: core/classes/class.arprice_preview_editor.php:3651
+#: core/classes/class.arprice_preview_editor_21dec2016.php:3643
+#: core/classes/class.arprice_preview_editor_option.php:3494
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3494
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3494
+#@ ARPricelite
+msgid "For Example"
+msgstr "For Example"
+
+#: core/classes/class.arprice_preview_editor.php:366
+#: core/classes/class.arprice_preview_editor_21dec2016.php:358
+#@ ARPricelite
+msgid "Fonts"
+msgstr "Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:639
+#: core/classes/class.arprice_preview_editor_21dec2016.php:631
+#@ ARPricelite
+msgid "Disable Hover Effect"
+msgstr "Disable Hover Effect"
+
+#: core/classes/class.arprice_preview_editor.php:648
+#: core/classes/class.arprice_preview_editor_21dec2016.php:640
+#@ ARPricelite
+msgid "Active column effects and hover color changes will be disabled."
+msgstr "Active column effects and hover color changes will be disabled."
+
+#: core/classes/class.arprice_preview_editor.php:776
+#: core/classes/class.arprice_preview_editor_21dec2016.php:768
+#@ ARPricelite
+msgid "Hide Column Sections"
+msgstr "Hide Column Sections"
+
+#: core/classes/class.arprice_preview_editor.php:786
+#: core/classes/class.arprice_preview_editor_21dec2016.php:778
+#@ ARPricelite
+msgid "Hide Header"
+msgstr "Hide Header"
+
+#: core/classes/class.arprice_preview_editor.php:805
+#: core/classes/class.arprice_preview_editor_21dec2016.php:797
+#@ ARPricelite
+msgid "Hide Shortcode"
+msgstr "Hide Shortcode"
+
+#: core/classes/class.arprice_preview_editor.php:824
+#: core/classes/class.arprice_preview_editor_21dec2016.php:816
+#@ ARPricelite
+msgid "Hide Price"
+msgstr "Hide Price"
+
+#: core/classes/class.arprice_preview_editor.php:843
+#: core/classes/class.arprice_preview_editor_21dec2016.php:835
+#@ ARPricelite
+msgid "Hide Body"
+msgstr "Hide Body"
+
+#: core/classes/class.arprice_preview_editor.php:863
+#: core/classes/class.arprice_preview_editor_21dec2016.php:855
+#@ ARPricelite
+msgid "Hide Description"
+msgstr "Hide Description"
+
+#: core/classes/class.arprice_preview_editor.php:883
+#: core/classes/class.arprice_preview_editor_21dec2016.php:875
+#@ ARPricelite
+msgid "Hide Button"
+msgstr "Hide Button"
+
+#: core/classes/class.arprice_preview_editor.php:1010
+#: core/classes/class.arprice_preview_editor.php:2838
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1002
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2830
+#@ ARPricelite
+msgid "Column Borders"
+msgstr "Column Borders"
+
+#: core/classes/class.arprice_preview_editor.php:1017
+#: core/classes/class.arprice_preview_editor.php:1149
+#: core/classes/class.arprice_preview_editor.php:2840
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1009
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1141
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2832
+#@ ARPricelite
+msgid "Border Size"
+msgstr "Border Size"
+
+#: core/classes/class.arprice_preview_editor.php:1049
+#: core/classes/class.arprice_preview_editor.php:1181
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1041
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1173
+#@ ARPricelite
+msgid "Border Type"
+msgstr "Border Type"
+
+#: core/classes/class.arprice_preview_editor.php:1062
+#: core/classes/class.arprice_preview_editor.php:1194
+#: core/classes/class.arprice_preview_editor.php:1592
+#: core/classes/class.arprice_preview_editor.php:1721
+#: core/classes/class.arprice_preview_editor.php:1851
+#: core/classes/class.arprice_preview_editor.php:1981
+#: core/classes/class.arprice_preview_editor.php:2111
+#: core/classes/class.arprice_preview_editor.php:2241
+#: core/classes/class.arprice_preview_editor.php:2881
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1054
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1186
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1584
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1713
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1843
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1973
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2103
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2233
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2873
+#@ ARPricelite
+msgid "Choose Option"
+msgstr "Choose Option"
+
+#: core/classes/class.arprice_preview_editor.php:1082
+#: core/classes/class.arprice_preview_editor.php:1214
+#: core/classes/class.arprice_preview_editor.php:1355
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1074
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1206
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1347
+#@ ARPricelite
+msgid "Border Color"
+msgstr "Border Color"
+
+#: core/classes/class.arprice_preview_editor.php:1102
+#: core/classes/class.arprice_preview_editor.php:2899
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1094
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2891
+#@ ARPricelite
+msgid "Borders"
+msgstr "Borders"
+
+#: core/classes/class.arprice_preview_editor.php:1142
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1134
+#@ ARPricelite
+msgid "Row Borders"
+msgstr "Row Borders"
+
+#: core/classes/class.arprice_preview_editor.php:1239
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1231
+#@ ARPricelite
+msgid "Button Style Options"
+msgstr "Button Style Options"
+
+#: core/classes/class.arprice_preview_editor.php:1250
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1242
+#@ ARPricelite
+msgid "Button Type"
+msgstr "Button Type"
+
+#: core/classes/class.arprice_preview_editor.php:1284
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1276
+#@ ARPricelite
+msgid "Border Width"
+msgstr "Border Width"
+
+#: core/classes/class.arprice_preview_editor.php:1319
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1311
+#@ ARPricelite
+msgid "solid"
+msgstr "solid"
+
+#: core/classes/class.arprice_preview_editor.php:1322
+#: core/classes/class.arprice_preview_editor.php:2868
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1314
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2860
+#@ ARPricelite
+msgid "Border Style"
+msgstr "Border Style"
+
+#: core/classes/class.arprice_preview_editor.php:1379
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1371
+#@ ARPricelite
+msgid "Border Radius"
+msgstr "Border Radius"
+
+#: core/classes/class.arprice_preview_editor.php:1447
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1439
+#@ ARPricelite
+msgid "Disable Button Hover Effect"
+msgstr "Disable Button Hover Effect"
+
+#: core/classes/class.arprice_preview_editor.php:1457
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1449
+#@ ARPricelite
+msgid "You can see button hover effect at front end."
+msgstr "You can see button hover effect at front end."
+
+#: core/classes/class.arprice_preview_editor.php:1569
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1561
+#@ ARPricelite
+msgid "Font Settings"
+msgstr "Font Settings"
+
+#: core/classes/class.arprice_preview_editor.php:1583
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1575
+#@ ARPricelite
+msgid "Header Fonts"
+msgstr "Header Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:1712
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1704
+#@ ARPricelite
+msgid "Description Fonts"
+msgstr "Description Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:1842
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1834
+#@ ARPricelite
+msgid "Pricing Fonts"
+msgstr "Pricing Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:1972
+#: core/classes/class.arprice_preview_editor_21dec2016.php:1964
+#@ ARPricelite
+msgid "Body Fonts"
+msgstr "Body Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:2102
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2094
+#@ ARPricelite
+msgid "Footer Fonts"
+msgstr "Footer Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:2232
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2224
+#@ ARPricelite
+msgid "Button Fonts"
+msgstr "Button Fonts"
+
+#: core/classes/class.arprice_preview_editor.php:2763
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2755
+#: core/classes/class.arprice_preview_editor_option.php:11
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:11
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:11
+#@ ARPricelite
+msgid "Background and Font Color"
+msgstr "Background and Font Color"
+
+#: core/classes/class.arprice_preview_editor.php:2909
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2901
+#@ ARPricelite
+msgid "Bottom"
+msgstr "Bottom"
+
+#: core/classes/class.arprice_preview_editor.php:2932
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2924
+#@ ARPricelite
+msgid "Column Color Settings (Normal State)"
+msgstr "Column Color Settings (Normal State)"
+
+#: core/classes/class.arprice_preview_editor.php:2941
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2933
+#: core/classes/class.arprice_preview_editor_option.php:376
+#: core/classes/class.arprice_preview_editor_option.php:495
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:376
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:495
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:376
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:495
+#: core/views/arprice_listing_editor.php:1099
+#: core/views/arprice_listing_editor.php:1234
+#@ ARPricelite
+msgid "Header"
+msgstr "Header"
+
+#: core/classes/class.arprice_preview_editor.php:2952
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2944
+#: core/classes/class.arprice_preview_editor_option.php:423
+#: core/classes/class.arprice_preview_editor_option.php:553
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:423
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:553
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:423
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:553
+#: core/views/arprice_listing_editor.php:1160
+#: core/views/arprice_listing_editor.php:1289
+#@ ARPricelite
+msgid "Footer"
+msgstr "Footer"
+
+#: core/classes/class.arprice_preview_editor.php:2964
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2956
+#: core/classes/class.arprice_preview_editor_option.php:447
+#: core/classes/class.arprice_preview_editor_option.php:577
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:447
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:577
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:447
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:577
+#: core/views/arprice_listing_editor.php:1188
+#: core/views/arprice_listing_editor.php:1315
+#@ ARPricelite
+msgid "Body Row Colors"
+msgstr "Body Row Colors"
+
+#: core/classes/class.arprice_preview_editor.php:2971
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2963
+#: core/classes/class.arprice_preview_editor_option.php:454
+#: core/classes/class.arprice_preview_editor_option.php:584
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:454
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:584
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:454
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:584
+#: core/views/arprice_listing_editor.php:1195
+#: core/views/arprice_listing_editor.php:1322
+#@ ARPricelite
+msgid "Odd"
+msgstr "Odd"
+
+#: core/classes/class.arprice_preview_editor.php:2982
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2973
+#: core/classes/class.arprice_preview_editor_option.php:464
+#: core/classes/class.arprice_preview_editor_option.php:596
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:464
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:596
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:464
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:596
+#: core/views/arprice_listing_editor.php:1208
+#: core/views/arprice_listing_editor.php:1335
+#@ ARPricelite
+msgid "Even"
+msgstr "Even"
+
+#: core/classes/class.arprice_preview_editor.php:2996
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2987
+#@ ARPricelite
+msgid "Border Colors"
+msgstr "Border Colors"
+
+#: core/classes/class.arprice_preview_editor.php:2998
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2989
+#: core/classes/class.arprice_preview_editor_option.php:368
+#: core/classes/class.arprice_preview_editor_option.php:485
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:368
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:485
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:368
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:485
+#: core/views/arprice_listing_editor.php:1090
+#: core/views/arprice_listing_editor.php:1225
+#@ ARPricelite
+msgid "Column"
+msgstr "Column"
+
+#: core/classes/class.arprice_preview_editor.php:2999
+#: core/classes/class.arprice_preview_editor_21dec2016.php:2990
+#@ ARPricelite
+msgid "Row"
+msgstr "Row"
+
+#: core/classes/class.arprice_preview_editor_option.php:278
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:278
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:278
+#@ ARPricelite
+msgid "Add Column Background Image"
+msgstr "Add Column Background Image"
+
+#: core/classes/class.arprice_preview_editor_option.php:360
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:360
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:360
+#: core/views/arprice_listing_editor.php:1081
+#@ ARPricelite
+msgid "Hover"
+msgstr "Hover"
+
+#: core/classes/class.arprice_preview_editor_option.php:388
+#: core/classes/class.arprice_preview_editor_option.php:513
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:388
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:513
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:388
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:513
+#: core/views/arprice_listing_editor.php:1117
+#: core/views/arprice_listing_editor.php:1249
+#@ ARPricelite
+msgid "Shortcode Section"
+msgstr "Shortcode Section"
+
+#: core/classes/class.arprice_preview_editor_option.php:412
+#: core/classes/class.arprice_preview_editor_option.php:541
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:412
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:541
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:412
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:541
+#: core/views/arprice_listing_editor.php:1147
+#: core/views/arprice_listing_editor.php:1276
+#@ ARPricelite
+msgid "Pricing"
+msgstr "Pricing"
+
+#: core/classes/class.arprice_preview_editor_option.php:1403
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1403
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1403
+#@ ARPricelite
+msgid "Style"
+msgstr "Style"
+
+#: core/classes/class.arprice_preview_editor_option.php:1433
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:1433
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:1433
+#@ ARPricelite
+msgid "Size"
+msgstr "Size"
+
+#: core/classes/class.arprice_preview_editor_option.php:2976
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2976
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2976
+#@ ARPricelite
+msgid "Button Width"
+msgstr "Button Width"
+
+#: core/classes/class.arprice_preview_editor_option.php:2990
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:2990
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:2990
+#@ ARPricelite
+msgid "Button Height"
+msgstr "Button Height"
+
+#: core/classes/class.arprice_preview_editor_option.php:3273
+#: core/classes/class.arprice_preview_editor_option_21dec2016.php:3273
+#: core/classes/class.arprice_preview_editor_option_22dec2016.php:3273
+#@ ARPricelite
+msgid "Open in New Tab?"
+msgstr "Open in New Tab?"
+
+#: core/views/arprice_global_settings.php:394
+#@ ARPricelite
+msgid "Load JS & CSS in all pages"
+msgstr "Load JS & CSS in all pages"
+
+#: core/views/arprice_global_settings.php:397
+#@ ARPricelite
+msgid " ( Not recommended - If you have any js/css loading issue in your theme, only in that case you should enable this settings )"
+msgstr " ( Not recommended - If you have any js/css loading issue in your theme, only in that case you should enable this settings )"
+
+#: core/views/arprice_global_settings.php:408
+#@ ARPricelite
+msgid "Load JS & CSS"
+msgstr "Load JS & CSS"
+
+#: core/views/arprice_listing_editor.php:350
+#: core/views/arprice_listing_editor_21dec2016.php:344
+#@ ARPricelite
+msgid "Header section is hidden."
+msgstr "Header section is hidden."
+
+#: core/views/arprice_listing_editor.php:351
+#: core/views/arprice_listing_editor_21dec2016.php:345
+#@ ARPricelite
+msgid "Price section is hidden."
+msgstr "Price section is hidden."
+
+#: core/views/arprice_listing_editor.php:352
+#: core/views/arprice_listing_editor_21dec2016.php:346
+#@ ARPricelite
+msgid "Feature section is hidden."
+msgstr "Feature section is hidden."
+
+#: core/views/arprice_listing_editor.php:353
+#: core/views/arprice_listing_editor_21dec2016.php:347
+#@ ARPricelite
+msgid "Description section is hidden."
+msgstr "Description section is hidden."
+
+#: core/views/arprice_listing_editor.php:354
+#: core/views/arprice_listing_editor_21dec2016.php:348
+#@ ARPricelite
+msgid "Header shortcode section is hidden."
+msgstr "Header shortcode section is hidden."
+
+#: core/views/arprice_template_listing.php:157
+#@ ARPricelite
+msgid "Download Free Samples"
+msgstr "Download Free Samples"
+
+#: core/views/arprice_import_export.php:290
+#@ ARPricelite
+msgid "Please Upload text file exported from ARPrice plugin"
+msgstr "Please Upload text file exported from ARPrice plugin"
+
+#: core/views/arprice_global_settings.php:369
+#@ ARPricelite
+msgid "Track button click of pricing table"
+msgstr "Track button click of pricing table"
+
+#: core/views/arprice_global_settings.php:382
+#@ ARPricelite
+msgid "Enable Analytics"
+msgstr "Enable Analytics"
+
+#: core/views/arprice_global_settings.php:371
+#@ ARPricelite
+msgid " ( If you do not want to get analytics of clicked column than uncheck below checkbox. )"
+msgstr " ( If you do not want to get analytics of clicked column than uncheck below checkbox. )"
+
